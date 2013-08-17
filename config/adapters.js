@@ -16,7 +16,12 @@ module.exports.adapters = {
 
   // If you leave the adapter config unspecified
   // in a model definition, 'default' will be used.
-  'default': 'mysql',
+  'default': 'mongo',
+
+  mongo: {
+    module   : 'sails-mongo',
+    url      : process.env.MONGOLAB_URI || 'mongodb://rakesh:rakesh@ds041168.mongolab.com:41168/todoapp'
+  },
 
   // In-memory adapter for DEVELOPMENT ONLY
   memory: {
