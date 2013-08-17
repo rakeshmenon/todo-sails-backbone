@@ -7,5 +7,5 @@ Application demo: [Click here](http://hs-todo.herokuapp.com)
 
 1. Clone the repo
 2. "cd" into the folder and npm install
-3. edit the mysql credentials in *config/adapters.js*
+3. edit the mongo details in *config/adapters.js*
 4. sails lift 
