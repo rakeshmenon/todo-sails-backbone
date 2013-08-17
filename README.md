@@ -1,6 +1,8 @@
 # todo-sails-backbone
 ### a sample Sails+Backbone+MySQL application
 
+Application demo: [Click here](http://hs-todo.herokuapp.com)
+
 ###Instructions to run application:
 
 1. Clone the repo
