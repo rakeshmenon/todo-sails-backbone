@@ -106,7 +106,7 @@ var app = app || {};
 				return;
 			}
 
-			app.todos.create(this.newAttributes());
+			app.todos.create(this.newAttributes(), { wait: true });
 			this.$input.val('');
 		},
 
