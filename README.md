@@ -1,5 +1,5 @@
 # todo-sails-backbone
-### a sample Sails+Backbone+MySQL application
+### a sample Sails+Backbone+Mongo application
 
 
 ###Instructions to run application:
