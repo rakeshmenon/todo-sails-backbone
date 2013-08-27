@@ -9,8 +9,3 @@ $(function () {
 	// kick things off by creating the `App`
 	new app.AppView();
 });
-
-io.configure(function () { 
-  io.set("transports", ["xhr-polling"]); 
-  io.set("polling duration", 10); 
-});
