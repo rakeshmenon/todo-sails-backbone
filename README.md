@@ -1,6 +1,8 @@
 # todo-sails-backbone
 ### a sample Sails+Backbone+Mongo application
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rakeshmenon/todo-sails-backbone.svg)](https://greenkeeper.io/)
+
 
 ###Instructions to run application:
 
